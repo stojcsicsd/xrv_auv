@@ -7,6 +7,7 @@ HW+SW:
 - RPi3 with BlueROV image with UTP as tether
 - Pixhawk1 with ArduSub FW 4.0.x
 - BlueRobotics depth sensor
+- Logitech F310 gamepad for manual/stabilized control
 - Ranging "sonar" from Ali (waterproof ultrasonic distance sensor)
 - uBlox GPS
 ...
