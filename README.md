@@ -1,5 +1,5 @@
 # xrv_auv
-eXperimental Research Vehicle AUV
+eXperimental Research Vessel AUV
 
 Using
 ------
