@@ -17,6 +17,7 @@ HW+SW:
 - 6S 10.000 mAH lipo
 
 Materials:
+- PLA printed objects
 - 110mm diameter PVC-KG tube for dry hull
 - 160mm diameter PVC-KG tube for wet hull
 - 75mm diamater PVC tube for vertical thrusters
