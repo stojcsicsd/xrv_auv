@@ -6,6 +6,8 @@ Using
 HW+SW:
 - RPi3 with BlueROV image with UTP as tether
 - Pixhawk1 with ArduSub FW 4.0.x
+- BlueRobotics depth sensor
+- Ranging "sonar" from Ali (waterproof ultrasonic distance sensor)
 - uBlox GPS
 ...
 - A2212 15T 930 kv motors for vertical thrusters
