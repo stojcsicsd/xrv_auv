@@ -1,5 +1,6 @@
 # xrv_auv
 eXperimental Research Vessel AUV
+This will be an open plaform for torpedo shaped AUV/ROV underwater unmanned vehicle, driven with eg. ArduSub
 
 Using
 ------
